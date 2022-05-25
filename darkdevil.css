@@ -1,6 +1,6 @@
 
 .BODY{
-    background-color: white;
+    background-color: rgb(84, 243, 235);
 }
 
 .MainHead{
@@ -55,4 +55,11 @@
 
 .RdSpeach{
     margin: 5px;
-    color: rgb(255, 0, 0);
+    color: rgb(255, 0, 0);}
+ 
+ .footer{
+     text-align: center;
+     background-color: white;
+    color: blue;
+   border: 10px black solid;
+ }   
