@@ -1,0 +1,58 @@
+
+.BODY{
+    background-color: white;
+}
+
+.MainHead{
+    text-align: center;
+    background-color: black;
+    color: red;
+    border: 5px red solid;}
+
+.FirstSpeach{
+    margin: 5px;
+    color: rgb(255, 0, 0);
+}
+
+.DiscordList{
+    margin: 5px;
+    border: 3px black solid;
+    color: red;
+}
+
+.DiscordRules{
+    color: black;
+}
+
+.DiscordLink{
+    background-color: red;
+    color: black;
+    border: 4px black solid;
+    margin-right: 1500px;
+}
+
+.ClanList{
+    margin: 5px;
+    border: 3px black solid;
+    color: red;
+}
+
+.ClanRules{
+    color: black; 
+}
+
+.NdSpeach{
+    margin: 5px;
+    color: rgb(255, 0, 0);
+}
+
+.RegisterLink{
+    background-color: red;
+    color: black;
+    border: 4px black solid;
+    margin-right: 1500px;
+}
+
+.RdSpeach{
+    margin: 5px;
+    color: rgb(255, 0, 0);
