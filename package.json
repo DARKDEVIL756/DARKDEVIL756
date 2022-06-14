@@ -1,0 +1,22 @@
+{
+  "name": "darkdevil756",
+  "version": "1.0.0",
+  "description": "My Development",
+  "main": "discord.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DARKDEVIL756/DARKDEVIL756.git"
+  },
+  "author": "DARKDEVIL756.git",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DARKDEVIL756/DARKDEVIL756/issues"
+  },
+  "homepage": "https://github.com/DARKDEVIL756/DARKDEVIL756#readme",
+  "dependencies": {
+    "discord.js": "^13.8.0"
+  }
+}
