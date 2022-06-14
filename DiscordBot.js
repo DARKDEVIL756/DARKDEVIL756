@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const bot = new Discord.client();
-const token = 'OTc4OTczNjU5MDM1MjIyMDI2.GpN47t.79AwAkVB7SHhik4DLMZbMKZwa1siZ2ABiHC02I';
+const token = 'OTc4OTczNjU5MDM1MjIyMDI2.Gj9AGG.Jgv71m8AM0MydoGBKZUCSoJ9uWunwEpMBdmuKs';
 const PEEFIX = '';
 
 
