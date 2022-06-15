@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Enan_Ahmed",
+    "master": true,
+    "password_hash": "$2a$11$dvDF2zxjRpqpd975nfwv5.FtoVpy.ZgQq9Eq2pC34cv0yN3U/t7wm",
+    "providers": {
+      "citizenfx": {
+        "id": "Enan_Ahmed",
+        "identifier": "fivem:7248422",
+        "data": {
+          "sub": "14b51ed98ca2a63bdce3112d175d20e1",
+          "nameid": "https://forum.cfx.re/internal/user/7248422",
+          "name": "Enan_Ahmed",
+          "picture": "https://forum.cfx.re/user_avatar/forum.cfx.re/enan_ahmed/256/2650949_2.png",
+          "profile": "https://forum.cfx.re/u/Enan_Ahmed"
+        }
+      }
+    },
+    "permissions": []
+  }
+]
