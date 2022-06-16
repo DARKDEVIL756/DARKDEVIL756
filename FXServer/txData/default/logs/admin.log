@@ -1,0 +1,11 @@
+
+================================================================
+======== txAdmin Starting - 6/16/2022, 9:57:59 AM               
+================================================================
+[09:58:33] [Enan_Ahmed] created admins file
+[10:00:40] [Enan_Ahmed] Changing global settings via setup stepper and started Deployer.
+[10:00:52] [Enan_Ahmed] Setting recipe.
+[10:05:56] [Enan_Ahmed] Running recipe.
+[10:06:30] [Enan_Ahmed] Configured server.cfg from deployer.
+[10:06:30] [Enan_Ahmed] Completed and committed server deploy.
+[10:16:34] [Enan_Ahmed] RESTART SERVER
